@@ -9,10 +9,10 @@
     },
     {
       "id": 2,
-      "name": "Tsundere Ebi",
-      "img_url": "./sushi/ebi.png",
-      "price": 15,
-      "created_at": "2018-07-27T18:53:16.244Z"
+      "name": "Maguro Magic",
+      "img_url": "./sushi/maguro.png",
+      "price": 20,
+      "created_at": "2018-07-27T18:53:16.241Z"
     },
     {
       "id": 3,
@@ -23,17 +23,17 @@
     },
     {
       "id": 4,
-      "name": "Kawaii Tobiko",
-      "img_url": "./sushi/tobiko.png",
-      "price": 25,
-      "created_at": "2018-07-27T18:53:16.251Z"
+      "name": "Tsundere Ebi",
+      "img_url": "./sushi/ebi.png",
+      "price": 15,
+      "created_at": "2018-07-27T18:53:16.279Z"
     },
     {
       "id": 5,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.255Z"
+      "created_at": "2018-07-27T18:53:16.279Z"
     },
     {
       "id": 6,
