@@ -6,12 +6,7 @@ function Sushi({ sushis, onPlateClick }) {
       <div className="sushi" key={sushi.id}>
         <div className="plate" onClick={(event) => onPlateClick(event)}>
           {/* Tell me if this sushi has been eaten! */}
-          {false ? (
-            <img
-              id={sushi.id}
-              width="100%"
-            />
-          ) : (
+          {false ? null : (
             <img
               id={sushi.id}
               src={sushi.img_url}
